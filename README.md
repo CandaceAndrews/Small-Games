@@ -2,7 +2,7 @@
 
 ### Super Mario Character Guess Game
 
-Guess the Super Mario character with the clues provided.
+- Guess the Super Mario character with the clues provided.
 
 ![Mario 1](pictures/Mario_1.png)
 
@@ -11,7 +11,7 @@ ___
 
 ### Paper, Rock, Scissors
 
-Game of paper, rock, scissors against the computer.
+- Game of paper, rock, scissors against the computer.
 
 ![paper rock scissors 1](pictures/paper_rock_scissors_1.png)
 
